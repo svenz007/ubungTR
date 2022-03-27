@@ -48,7 +48,7 @@ import java.io.IOException;
 
         public static void fileOutputStreamByteSequence(String file, String ganzeRechnungString) throws IOException {
             // Übung 02 Output stream funktion implementieren welche die Variabel "ganzeRechnungString" in unsere Datei schreibt
-            // bei erneutem ausführen des Programm soll die Rechnung nicht überschrieben werden
+            // bei erneutem ausführen des Programm soll die Rechnung nicht überschrieben werden.
 
 
         }
