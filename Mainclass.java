@@ -13,7 +13,7 @@ public class Mainclass {
         boolean eingabe = true;
         while (eingabe) {
             System.out.println("Wählen Sie Ihre gewünschte Rechenfunktion aus: \n Drücken Sie 1 für Addition \n Drücken Sie 2 für Subtraktion \n Drücken Sie 3 für Multiplikation \n Drücken Sie 4 für Division");
-            //Übung 01
+            //Übung 01 - für Klasse
             // Scanner funktion implementieren (Bitte beachte die richtige Variable zu nutzen für den weiteren verlauf
 
 

@@ -7,7 +7,7 @@ public class Calculator {
     private double endResult;
 
 
-    // Welche Mathematische Methode wurde ausgewählt
+    // Welche Mathematische Methode wird ausgewählt
     public double OperatorAuswahl(String operation) {
 
         switch (operation) {
